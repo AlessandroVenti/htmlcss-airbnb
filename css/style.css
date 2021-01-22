@@ -50,10 +50,18 @@
   color: #F400A1;
 }
 
+.blue {
+  color: #ABCDEF;
+}
+
 .gold-border {
   border: 10px solid #FFD700;
 }
 
 .purple-border {
   border: 10px solid #F400A1;
+}
+
+.blue-border {
+  border: 10px solid #ABCDEF;
 }
