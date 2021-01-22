@@ -29,7 +29,6 @@
 }
 
 .text {
-  color: #FFD700;
   font-size: 70px;
   position: absolute;
   top: 50%;
@@ -41,4 +40,20 @@
      1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;
+}
+
+.gold {
+  color: #FFD700;
+}
+
+.purple {
+  color: #F400A1;
+}
+
+.gold-border {
+  border: 10px solid #FFD700;
+}
+
+.purple-border {
+  border: 10px solid #F400A1;
 }
